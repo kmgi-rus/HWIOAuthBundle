@@ -1,5 +1,5 @@
 {
-    "name":        "hwi/oauth-bundle",
+    "name":        "sau/oauth-bundle",
     "type":        "symfony-bundle",
     "homepage":    "http://github.com/hwi/HWIOAuthBundle",
     "license":     "MIT",
@@ -92,7 +92,7 @@
     ],
 
     "require": {
-        "php":                          "^5.3.3|^7.0",
+        "php":                          "^7.0",
         "symfony/framework-bundle":     "^2.3|^3.0",
         "symfony/security-bundle":      "^2.3|^3.0",
         "symfony/options-resolver":     "^2.3|^3.0",
